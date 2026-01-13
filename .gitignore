@@ -1,0 +1,4 @@
+elasticsearch/
+kibana/
+*.log
+__pycache__/
