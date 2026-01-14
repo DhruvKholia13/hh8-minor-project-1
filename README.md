@@ -61,7 +61,6 @@ Step 1: Start the Fake Email Server (for Debugging)
 Open a terminal and run:
 
 Bash
-
 python fake_email_server.py
 This will listen for alert emails and print them to the console.
 
