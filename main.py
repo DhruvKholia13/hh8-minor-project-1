@@ -19,7 +19,7 @@ SMTP_PORT = 1025
 SENDER_EMAIL = 'security@soc.com'
 RECEIVER_EMAIL = 'admin@company.com'
 
-# --- CONNECT TO DATABASE ---
+# ---- CONNECT TO DATABASE ----
 es = None
 try:
     es = Elasticsearch(ES_HOST)
